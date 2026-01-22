@@ -37,6 +37,11 @@ integration, and usability issues.
 - Manual test cases (Markdown)
 - Bug reports (Markdown)
 
+## Limitations
+
+- Payment success flow could not be tested due to lack of available payment methods in the demo environment
+- Tests were conducted on a demo instance with limited configuration options
+
 ## Author
 
 - Name: kstarzyckababik
