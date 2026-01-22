@@ -1,4 +1,6 @@
-# ecommerce-checkout-testing - Manual Testing Project
+# ecommerce-checkout-testing
+
+# Manual Testing Project
 
 ## Project description
 
@@ -18,7 +20,7 @@ integration, and usability issues.
 - Adding products to cart
 - Cart management
 - Checkout process
-- Payment process (test payment)
+- Payment process (test payment) - Due to demo environment limitations, payment success flow could not be tested.
 - Basic UX evaluation
 
 ## Types of tests
